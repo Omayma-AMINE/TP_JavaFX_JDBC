@@ -1,0 +1,19 @@
+.root{
+    -fx-background-color: #e3e3ef;
+    -fx-font-family: Cambria;
+}
+.label{
+    -fx-font-weight: bolder;
+}
+.text-field{
+-fx-background-color: #efefe4;
+    -fx-border-radius: 6px;
+    -fx-border-color: #5fbaf3;
+}
+.button{
+    -fx-border-radius: 6px;
+    -fx-font-weight: bold;
+}
+.table-view{
+    -fx-border-radius: 6px;
+}
